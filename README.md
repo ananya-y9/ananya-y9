@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ananya Yadav! My github username is @ananya-y9
 - 👀 I’m interested in data science and software engineering
-- 🌱 I’m currently learning computer architecture and discrete mathematics
+- 🌱 I’m currently learning Machine Learning Principles and Data Science
 - 💞️ I’m looking to collaborate on anything DS/CS related!
 - 📫 How to reach me: ananya@yadav.com
 
